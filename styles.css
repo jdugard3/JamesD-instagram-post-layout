@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+
+.card{
+    background-color: white;
+    width: 335px;
+    height: 400px;
+    margin: auto;
+    margin-top: 75px;
+}
+.emblem{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+.header-title-top-bold{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.header-title-top{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.dots {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+}
+.image1{
+    /*border: aqua dashed;*/
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.header-symbol {
+    /*border: blue dashed 2px;*/
+    width: 7%;
+    height: 50px;
+    float: left;
+}
+.header-title {
+    /*border: red dashed 2px;*/
+    width: 287px;
+    height: 50px;
+    float: left;
+
+}
+.header-menu {
+   /* border: green dashed 2px;*/
+    width: 5%;
+    height: 50px;
+    display: flex;
+}
+.icons{
+   /* border: red dashed;*/
+    height: 4%;
+}
+.fa{
+    padding: 5px;
+}
+.fa-heart-o{
+    /*border: black dotted 2px;*/
+    float: left;
+}
+.fa-comment-o{
+   /* border: black dotted 2px;*/
+    float: left;
+}
+.fa-paper-plane-o{
+   /* border: black dotted 2px;*/
+    float: left;
+}
+.fa-bookmark-o{
+   /* border: black dotted 2px;*/
+    float: right;
+}
+.liked-by{
+   /* border: blue dotted;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
